@@ -1,0 +1,11 @@
+git checkout main
+
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+
+git merge bug-fix-typo
+
+Updating 2bce4e8..c58c8e0
+Fast-forward
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
