@@ -1,0 +1,4 @@
+ git branch -vv
+  bug-fix-typo c58c8e0 [origin/bug-fix-typo] Fix typo in README
+* main         3f177a0 [origin/main] Add merge evidence
+  pr-test      9120d8f [origin/pr-test: ahead 1] Add pull request verification
